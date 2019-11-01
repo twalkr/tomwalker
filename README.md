@@ -1,6 +1,6 @@
 # tomwalker README
 
-!()[https://cdn.zapier.com/storage/files/26a34a18dcb798482052d2440716d001.mp4] | I've put this document together to help you understand how I operate, and what makes me tick as a human being & a manager. I'm committed to getting to know you personally though, and so this README isn't intended to replace the precious time we'll have getting to know one another.
+![](https://cdn.zapier.com/storage/files/26a34a18dcb798482052d2440716d001.mp4) | I've put this document together to help you understand how I operate, and what makes me tick as a human being & a manager. I'm committed to getting to know you personally though, and so this README isn't intended to replace the precious time we'll have getting to know one another.
 
 It's a living document, and so if you find something you don't agree with - please do call it out by sending me a Slack DM. It's likely that I've either changed my mind, or I need a nudge to remind me about a commitment I've set.
 
